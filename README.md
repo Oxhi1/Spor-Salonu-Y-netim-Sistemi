@@ -58,6 +58,13 @@ Oturumlar $_SESSION ile yönetilir, düz cookie kullanılmaz.
 ## Ekran Görüntüleri
 
 
+![Giriş Sayfası](screenshots/ss1)
+
+
+![Dashboard](screenshots/ss2)
+
+
+![Aktivite Ekle](screenshots/ss3)
 
 ## Geliştirici
 Bu proje Bursa Teknik Üniversitesi Bilgisayar Mühendisliği dersi kapsamında hazırlanmıştır.
