@@ -33,16 +33,25 @@ Uygulama kullanım videosu için ----> https://youtu.be/y3Urm8WKn7g
 ##  Klasör Yapısı
 
 spor_sistemi/
+
 ├── config/
 │ └── db.php # Veritabanı bağlantısı
+
 ├── index.php # Giriş ekranı
+
 ├── register.php # Kayıt olma sayfası
+
 ├── login.php # Giriş işlemleri
+
 ├── logout.php # Çıkış işlemi
+
 ├── dashboard.php # Kullanıcı paneli
+
 ├── delete.php # Aktivite silme
+
 ├── README.md # Proje tanıtımı
-└── spor_sistemi.sql # Veritabanı yapısı
+
+
 
 
 
