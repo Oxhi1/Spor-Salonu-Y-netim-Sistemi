@@ -52,7 +52,12 @@ spor_sistemi/
 ├── README.md # Proje tanıtımı
 
 
+##Ekran Görüntüleri 
+[Kayıt Sayfası](screenshots/ss1.png)
 
+![Giriş Sayfası](screenshots/ss2.png)
+
+![Uygulama Sayfası](screenshots/ss3.png)
 
 
 
