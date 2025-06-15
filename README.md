@@ -52,7 +52,7 @@ spor_sistemi/
 ├── README.md # Proje tanıtımı
 
 
-##Ekran Görüntüleri 
+## Ekran Görüntüleri 
 
 ![Kayıt Sayfası](screenshots/ss1.png)
 
