@@ -53,7 +53,8 @@ spor_sistemi/
 
 
 ##Ekran Görüntüleri 
-[Kayıt Sayfası](screenshots/ss1.png)
+
+![Kayıt Sayfası](screenshots/ss1.png)
 
 ![Giriş Sayfası](screenshots/ss2.png)
 
