@@ -1,1 +1,1 @@
-# Spor-Salonu-Y-netim-Sistemi
+# Spor-Salonu-Yonetim-Sistemi
